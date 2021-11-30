@@ -5,6 +5,7 @@ body {
 	font-size: 17px;
 background-color:white;
 background-image:url(images/chillwave.gif);
+background-size:cover;
 }
 
 h1, h2, h3 {
